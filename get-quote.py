@@ -1,4 +1,4 @@
-def main():
+def bot():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
