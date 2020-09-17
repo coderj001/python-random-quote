@@ -11,6 +11,14 @@ When complete, you'll be able to grab random quotes from the command line, like 
 > **$** python get-quote.py
 > 
 > Speak like a human
+> 
+> **$** python get-quote.py -a "Add quote"
+>
+> **$** python get-quote.py -n 2
+>
+> Keep it logically awesome
+> Speak like a human
+>
 
 ## Start the Tutorial
 
